@@ -1,9 +1,12 @@
 ## A. DEFINING THE PROJECT ##
 **Project Summary**
 **Customer:**
-**Project Name:**\
-aa
-**Team Members:**
+**Project Name:** iFace
+**Team Members:**\
+NURUL AINA ZAFIRAH BT. MUHD. SANI\
+MUHAMMAD AMIRUL SYAFIQ BIN ZULKEFLI\
+NURAFIQAH BINTI KHOSNI \
+WAN ADDINI AISYAH BT. WAN ISMAIL\
 ## B. PLANNING THE PROJECT ##
 **Project Management Life Cycle** 
 Gantt Chart
