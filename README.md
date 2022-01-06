@@ -10,9 +10,9 @@
 * NURAFIQAH BINTI KHOSNI 
 * WAN ADDINI AISYAH BT. WAN ISMAIL 
 #### Objectives: ####
-a
-a
-a
+* a
+* a
+* a
 ## B. PLANNING THE PROJECT ##\
 **Project Management Life Cycle** 
 Gantt Chart
