@@ -1,9 +1,10 @@
 ## A. DEFINING THE PROJECT ##
 ### Project Summary ###
-### Customer: ###
-### Project Name: iFace ###
+---------------
+Customer: 
+Project Name: iFace 
 
-### Team Members: ###
+Team Members: 
 
 NAME | MATRICS NUM | ROLE
 :---: | :---: | :---:
