@@ -3,7 +3,7 @@
 ### Customer: ###
 ### Project Name: iFace ###
 
-**Team Members:**
+### Team Members: ###
 
 NAME | MATRICS NUM | ROLE
 :---: | :---: | :---:
