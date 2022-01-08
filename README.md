@@ -6,6 +6,7 @@
 **Team Members:**
 
 Left aligned Header | Right aligned Header | Center aligned Header
+--------------------|----------------------|----------------------
 :Nurul Aina  Zafiarah Binti Muhamad Sani: | :B031910143: | :Project Manager:
 :MUHAMMAD AMIRUL SYAFIQ BIN ZULKEFLI: | :B031910: | :Project Manager:
 :NURAFIQAH BINTI KHOSNI : | :B031910: | :Project Manager:
