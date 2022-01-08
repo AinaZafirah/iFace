@@ -13,6 +13,7 @@
 * a
 * a
 * a
+
 ## B. PLANNING THE PROJECT ##
 **Project Management Life Cycle** 
 * Gantt Chart
@@ -20,6 +21,7 @@
 * Responsibility Assignent Matrices (RAM)
 * Project Planning Summary
 * Table - Name Roles
+
 ## C. IMPLEMENTING THE PROJECT PLAN ##
 * Deliverables
 * Estimated cost and task
@@ -29,12 +31,14 @@
 * Project design and coding
 * Flow diagram
 * coding
+
 ## E. COMPLETING THE PROJECT ##
 * closing checklist
 * sign off
 * lesson learned
 * final project report
 * close contract
-## F. PROJECT PRESENTATION # #
+
+## F. PROJECT PRESENTATION ##
 * Presentation video
 * System demonstration video
