@@ -25,12 +25,22 @@ WAN ADDINI AISYAH BT. WAN ISMAIL | B031910404 | Project Manager
 * WBS
 * Responsibility Assignent Matrices (RAM)
 * Project Planning Summary
+MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
+:---: | :---: | :---: | :---:
+ |  |  |  |
+
 * Table - Name Roles
 
 ## C. IMPLEMENTING THE PROJECT PLAN ##
 * Deliverables
 * Estimated cost and task
+* TASK | ESTIMATED COST (RM) | COMMENTS 
+:---: | :---: | :---:
+ |  |  |  |
 * milestone chart
+* MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION 
+:---: | :---: | :---:
+ |  |  |  
 
 ## D. EXECUTING THE PROJECT ##
 * Project design and coding
