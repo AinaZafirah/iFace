@@ -1,7 +1,8 @@
 ## A. DEFINING THE PROJECT ##
 ### Project Summary ###
----------------
+
 Customer: 
+
 Project Name: iFace 
 
 Team Members: 
