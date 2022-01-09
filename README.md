@@ -51,7 +51,7 @@ MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION
 * coding
 
 ## E. COMPLETING THE PROJECT ##
-* closing checklist
+### Closing Checklist ###
 * sign off
 * lesson learned
 * final project report
