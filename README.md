@@ -26,8 +26,8 @@ WAN ADDINI AISYAH BT. WAN ISMAIL | B031910404 | Project Manager
 * Responsibility Assignent Matrices (RAM)
 * Project Planning Summary
 MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
-:---: | :---: | :---: | :---:
- a | a | a | a
+:---: | :---: | :---:
+NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager | a
 
 * Table - Name Roles
 
