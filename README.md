@@ -30,8 +30,6 @@ MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
 :---: | :---: | :---: | :---:
 NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager | a
 
-* Table - Name Roles
-
 ## C. IMPLEMENTING THE PROJECT PLAN ##
 * Deliverables
 * Estimated cost and task
