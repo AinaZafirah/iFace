@@ -51,8 +51,11 @@ MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION
 ## E. COMPLETING THE PROJECT ##
 ### Closing Checklist ###
 :white_check_mark: sign off
+
 :white_check_mark: lesson learned
+
 :white_check_mark: final project report
+
 :white_check_mark: close contract
 
 ## F. PROJECT PRESENTATION ##
