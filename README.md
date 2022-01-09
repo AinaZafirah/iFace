@@ -1,7 +1,7 @@
 ## A. DEFINING THE PROJECT ##
 ### Project Summary ###
 
-Customer: 
+Customer:  
 
 Project Name: iFace 
 
