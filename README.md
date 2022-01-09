@@ -25,6 +25,7 @@ WAN ADDINI AISYAH BT. WAN ISMAIL | B031910404 | Project Manager
 * WBS
 * Responsibility Assignent Matrices (RAM)
 * Project Planning Summary
+
 MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
 :---: | :---: | :---: | :---:
 NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager | a
@@ -34,11 +35,13 @@ NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager | a
 ## C. IMPLEMENTING THE PROJECT PLAN ##
 * Deliverables
 * Estimated cost and task
-* TASK | ESTIMATED COST (RM) | COMMENTS 
+* 
+TASK | ESTIMATED COST (RM) | COMMENTS 
 :---: | :---: | :---:
  a | a | a 
 * milestone chart
-* MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION 
+
+MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION 
 :---: | :---: | :---:
  a | a | a   
 
