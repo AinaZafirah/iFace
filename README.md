@@ -50,10 +50,10 @@ MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION
 
 ## E. COMPLETING THE PROJECT ##
 ### Closing Checklist ###
-* sign off
-* lesson learned
-* final project report
-* close contract
+- [x] sign off
+- [x] lesson learned
+- [x] final project report
+- [x] close contract
 
 ## F. PROJECT PRESENTATION ##
 * Presentation video
