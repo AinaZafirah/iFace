@@ -27,7 +27,7 @@ WAN ADDINI AISYAH BT. WAN ISMAIL | B031910404 | Project Manager
 * Project Planning Summary
 MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
 :---: | :---: | :---: | :---:
- |  |  |  |
+ |  |  |  
 
 * Table - Name Roles
 
