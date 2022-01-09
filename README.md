@@ -36,7 +36,7 @@ MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
 * Estimated cost and task
 * TASK | ESTIMATED COST (RM) | COMMENTS 
 :---: | :---: | :---:
- a | a | a | a 
+ a | a | a 
 * milestone chart
 * MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION 
 :---: | :---: | :---:
