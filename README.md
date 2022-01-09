@@ -31,12 +31,16 @@ MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
 NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager | a
 
 ## C. IMPLEMENTING THE PROJECT PLAN ##
-* Deliverables
+* Planning Deliverables
+* Analysis Deliverables
+* Design Deliverables
+* Implementation Deliverables
 * Estimated cost and task
-* 
+
 TASK | ESTIMATED COST (RM) | COMMENTS 
 :---: | :---: | :---:
  a | a | a 
+	
 * milestone chart
 
 MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION 
