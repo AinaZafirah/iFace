@@ -9,10 +9,10 @@ Team Members:
 
 NAME | MATRICS NUM | ROLE
 :---: | :---: | :---:
-NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager
-MUHAMMAD AMIRUL SYAFIQ BIN ZULKEFLI | B031910 | Project Manager
-NURAFIQAH BINTI KHOSNI | B031910 | Project Manager
-WAN ADDINI AISYAH BT. WAN ISMAIL | B031910404 | Project Manager
+Nurul Aina Zafirah Binti Muhamad Sani | B031910143 | Project Manager
+Muhammad Amirul Syafiq Bin Zulkefli | B031910 | Project Manager
+Nurafiqah Binti Khosni | B031910 | Project Manager
+Wan Addini Aisyah Binti Wan Ismail | B031910404 | Project Manager
 
 #### Objectives: ####
 * a
