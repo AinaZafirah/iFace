@@ -83,6 +83,6 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 :white_check_mark: Close Contract
 
 ## F. PROJECT PRESENTATION ##
-### Presentation video
-### System demonstration video
+### :pushpin: Presentation video
+### :pushpin: System demonstration video
   
