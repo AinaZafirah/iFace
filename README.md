@@ -37,7 +37,9 @@ Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 
 MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
 :---: | :---: | :---: | :---:
-NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager | a
+Emotion Database | 300,000.00 | 22 October 2021 - 17 November 2021 | Collect Data
+Emotion Detection | 800,000.00 | 19 November 2021 - 30 December 2021 | Training and Testing Data
+
 
 ## C. IMPLEMENTING THE PROJECT PLAN ##
 * Planning Deliverables
@@ -59,7 +61,7 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
  Planning | 21 October 2021 | 26 October 2021
  Analysis | 17 November 2021 | 21 November 2021 
  Design | 30 December 2021 | 31 December 2021  
- Iplementation | 5 January 2022 | 7 January 2022   
+ Implementation | 5 January 2022 | 7 January 2022   
 
 ## D. EXECUTING THE PROJECT ##
 * Project design and coding
