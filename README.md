@@ -1,5 +1,5 @@
-## A. DEFINING THE PROJECT ##
-### Project Summary ###
+## A. DEFINING THE PROJECT 
+### Project Summary 
 
 Customer:  
 
@@ -14,12 +14,12 @@ Muhammad Amirul Syafiq Bin Zulkefli | B031910016 | System Engineer
 Nurafiqah Binti Khosni | B031910083 | Financial Analyst
 Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 
-#### Objectives: ####
+#### Objectives: 
 * Detect facial emotion of users during game testing
 * Analyze users' emotion on particular games
 * Get faster feedback than surveys
 
-## B. PLANNING THE PROJECT ##
+## B. PLANNING THE PROJECT 
 **Project Management Life Cycle** 
 ![gantt chart](https://user-images.githubusercontent.com/55248669/148727493-f8711d62-8083-4646-ad8f-8ebe3a305799.png)
 
@@ -41,7 +41,7 @@ Emotion Database | 300,000.00 | 22 October 2021 - 17 November 2021 | Collect Dat
 Emotion Detection | 800,000.00 | 19 November 2021 - 30 December 2021 | Training and Testing Data
 
 
-## C. IMPLEMENTING THE PROJECT PLAN ##
+## C. IMPLEMENTING THE PROJECT PLAN 
 * Planning Deliverables
 * Analysis Deliverables
 * Design Deliverables
@@ -64,9 +64,9 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
  Implementation | 5 January 2022 | 7 January 2022   
 
 ## D. EXECUTING THE PROJECT ##
-* Project design and coding
-* Flow diagram
-* coding
+### Project design and coding
+### Flow diagram
+### coding
 
 ## E. COMPLETING THE PROJECT ##
 ### Closing Checklist ###
