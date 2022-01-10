@@ -48,18 +48,18 @@ NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager | a
 
 TASK | ESTIMATED COST (RM) | COMMENTS 
 :---: | :---: | :---:
- Acquisition | a | Software, Hardware, Data
- Design | a | System Design, Testing and Training
- Restoration | a | Camera Installation,  System Installation, Maintenance
+ Acquisition | 413,396.00 | Team Members, Software, Hardware, Data
+ Design | 250,000.00 | System Design, Testing and Training
+ Restoration | 500,000.00 | Camera Installation,  System Installation, Maintenance
 	 
 * milestone chart
 
-MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION 
+MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION 
 :---: | :---: | :---:
- Planning | a | a   
- Analysis | a | a   
- Design | a | a   
- Iplementation | a | a   
+ Planning | 21 October 2021 | 26 October 2021
+ Analysis | 17 November 2021 | 21 November 2021 
+ Design | 30 December 2021 | 31 December 2021  
+ Iplementation | 5 January 2022 | 7 January 2022   
 
 ## D. EXECUTING THE PROJECT ##
 * Project design and coding
