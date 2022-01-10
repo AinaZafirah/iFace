@@ -56,7 +56,7 @@ TASK | ESTIMATED COST (RM) | COMMENTS
  Design | 250,000.00 | System Design, Testing and Training
  Restoration | 500,000.00 | Camera Installation,  System Installation, Maintenance
 	 
-### Milestone Chart
+### :calendar: Milestone Chart
 
 MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION 
 :---: | :---: | :---:
