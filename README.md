@@ -30,7 +30,7 @@ Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 <p align = "center"> Figure 2: Work Breakdown Structure </p>
 
 ![ram (2)](https://user-images.githubusercontent.com/55248669/148727697-0a41e9c8-741a-4992-9dab-02907c7c599a.png)
-<p Figure 3: Responsibility Assignment Matrices (RAM) </p>
+Figure 3: Responsibility Assignment Matrices (RAM) 
 
 
 ### :notebook: Project Planning Summary
