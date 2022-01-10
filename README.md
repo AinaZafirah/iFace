@@ -46,7 +46,8 @@ Emotion Detection | 800,000.00 | 19 November 2021 - 30 December 2021 | Training 
 * Analysis Deliverables
 * Design Deliverables
 * Implementation Deliverables
-* Estimated cost and task
+
+### Estimated cost and task
 
 TASK | ESTIMATED COST (RM) | COMMENTS 
 :---: | :---: | :---:
@@ -65,8 +66,10 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 
 ## D. EXECUTING THE PROJECT ##
 ### Project design and coding
+
 ### Flow diagram
-### coding
+
+### Coding
 
 ## E. COMPLETING THE PROJECT ##
 ### Closing Checklist ###
