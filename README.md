@@ -1,5 +1,5 @@
 ## A. DEFINING THE PROJECT 
-### Project Summary 
+###  :pencil2: Project Summary 
 
 Customer: Gaming Company (Mock)
 
