@@ -22,9 +22,12 @@ Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 ## B. PLANNING THE PROJECT 
 ### :chart_with_upwards_trend: Project Management Life Cycle
 
-![gantt chart](https://user-images.githubusercontent.com/55248669/148727493-f8711d62-8083-4646-ad8f-8ebe3a305799.png "AAA")
+![gantt chart](https://user-images.githubusercontent.com/55248669/148727493-f8711d62-8083-4646-ad8f-8ebe3a305799.png)
 
+<p align = "center">
 Figure 1: Gantt Chart
+</p>
+
 
 ![wbs](https://user-images.githubusercontent.com/55248669/148727631-899c2749-880d-4a85-aed7-38080e6c06db.png)
 
