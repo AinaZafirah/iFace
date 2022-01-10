@@ -21,7 +21,7 @@ Wan Addini Aisyah Binti Wan Ismail | B031910404 | Project Manager
 
 ## B. PLANNING THE PROJECT ##
 **Project Management Life Cycle** 
-* Gantt Chart
+![picture alt](![gantt chart](https://user-images.githubusercontent.com/55248669/148727493-f8711d62-8083-4646-ad8f-8ebe3a305799.png) "Title is optional")
 * WBS
 * Responsibility Assignent Matrices (RAM)
 * Project Planning Summary
