@@ -14,7 +14,7 @@ Muhammad Amirul Syafiq Bin Zulkefli | B031910016 | System Engineer
 Nurafiqah Binti Khosni | B031910083 | Financial Analyst
 Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 
-#### :page_facing_up: Objectives:
+### :page_facing_up: Objectives:
 * Detect facial emotion of users during game testing
 * Analyze users' emotion on particular games
 * Get faster feedback than surveys
