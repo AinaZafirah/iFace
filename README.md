@@ -14,7 +14,7 @@ Muhammad Amirul Syafiq Bin Zulkefli | B031910016 | System Engineer
 Nurafiqah Binti Khosni | B031910083 | Financial Analyst
 Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 
-:page_facing_up: #### Objectives: 
+#### :page_facing_up: Objectives:
 * Detect facial emotion of users during game testing
 * Analyze users' emotion on particular games
 * Get faster feedback than surveys
@@ -42,7 +42,7 @@ Emotion Detection | 800,000.00 | 19 November 2021 - 30 December 2021 | Training 
 
 
 ## C. IMPLEMENTING THE PROJECT PLAN 
-:memo: ### Deliverables
+### :memo: Deliverables
 * Planning Deliverables
 * Analysis Deliverables
 * Design Deliverables
