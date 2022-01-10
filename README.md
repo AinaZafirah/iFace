@@ -73,7 +73,7 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 ### Coding
 
 ## E. COMPLETING THE PROJECT ##
-### Closing Checklist ###
+### :clipboard: Closing Checklist ###
 :white_check_mark: Sign Off
 
 :white_check_mark: Lesson Learned
