@@ -24,15 +24,19 @@ Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 
 ![gantt chart](https://user-images.githubusercontent.com/55248669/148727493-f8711d62-8083-4646-ad8f-8ebe3a305799.png)
 
-Figure 1: Gantt Chart
+		Figure 1: Gantt Chart
+
+
 
 ![wbs](https://user-images.githubusercontent.com/55248669/148727631-899c2749-880d-4a85-aed7-38080e6c06db.png)
 
-Figure 2: Work Breakdown Structure
+		Figure 2: Work Breakdown Structure
+
+
 
 ![ram (2)](https://user-images.githubusercontent.com/55248669/148727697-0a41e9c8-741a-4992-9dab-02907c7c599a.png)
 
-Figure 3: Responsibility Assignment Matrices (RAM)
+		Figure 3: Responsibility Assignment Matrices (RAM)
 
 ### :notebook: Project Planning Summary
 
