@@ -33,7 +33,7 @@ Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 
 "Responsibility Assignment Matrices (RAM)"
 
-* Project Planning Summary
+### :notebook: Project Planning Summary
 
 MODULES/COMPONENTS | BUDGET (RM) | SCHEDULE | RESPONSIBILITY
 :---: | :---: | :---: | :---:
