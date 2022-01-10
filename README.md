@@ -10,14 +10,14 @@ Team Members:
 NAME | MATRICS NUM | ROLE
 :---: | :---: | :---:
 Nurul Aina Zafirah Binti Muhamad Sani | B031910143 | Project Manager
-Muhammad Amirul Syafiq Bin Zulkefli | B031910016 | Project Manager
-Nurafiqah Binti Khosni | B031910083 | Project Manager
-Wan Addini Aisyah Binti Wan Ismail | B031910404 | Project Manager
+Muhammad Amirul Syafiq Bin Zulkefli | B031910016 | System Engineer
+Nurafiqah Binti Khosni | B031910083 | Financial Analyst
+Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 
 #### Objectives: ####
-* a
-* a
-* a
+* Detect facial emotion of users during game testing
+* Analyze users' emotion on particular games
+* Get faster feedback than surveys
 
 ## B. PLANNING THE PROJECT ##
 **Project Management Life Cycle** 
@@ -48,13 +48,18 @@ NURUL AINA ZAFIARH BINTI MUHAMAD SANI | B031910143 | Project Manager | a
 
 TASK | ESTIMATED COST (RM) | COMMENTS 
 :---: | :---: | :---:
- a | a | a 
+ Acquisition | a | Software, Hardware, Data
+ Design | a | System Design, Testing and Training
+ Restoration | a | Camera Installation,  System Installation, Maintenance
 	 
 * milestone chart
 
 MILESTONE | SCHEDULED COMPLETION (RM) | ACTUAL COMPLETION 
 :---: | :---: | :---:
- a | a | a   
+ Planning | a | a   
+ Analysis | a | a   
+ Design | a | a   
+ Iplementation | a | a   
 
 ## D. EXECUTING THE PROJECT ##
 * Project design and coding
