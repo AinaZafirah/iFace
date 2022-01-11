@@ -79,7 +79,8 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 :white_check_mark: Sign Off
 
 :white_check_mark: [Lesson Learned](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Lab%2012.pdf)
-:white_check_mark: Final Project Report
+
+:white_check_mark: [Final Project Report](https://github.com/AinaZafirah/iFace)
 
 :white_check_mark: Close Contract
 
