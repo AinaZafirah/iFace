@@ -76,7 +76,7 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 
 ## E. COMPLETING THE PROJECT ##
 ### :clipboard: Closing Checklist ###
-:white_check_mark: Sign Off
+:white_check_mark: [Sign Off](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Sign%20Off%20form.pdf)
 
 :white_check_mark: [Lesson Learned](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Lab%2012.pdf)
 
