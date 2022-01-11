@@ -79,6 +79,8 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 
 :white_check_mark: Lesson Learned
 
+[Google](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Lab%2012.pdf) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+
 :white_check_mark: Final Project Report
 
 :white_check_mark: Close Contract
