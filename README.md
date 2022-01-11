@@ -23,15 +23,18 @@ Wan Addini Aisyah Binti Wan Ismail | B031910404 | Implementation Manager
 ### :chart_with_upwards_trend: Project Management Life Cycle
 
 ![gantt chart](https://user-images.githubusercontent.com/55248669/148727493-f8711d62-8083-4646-ad8f-8ebe3a305799.png)
-<p align = "center"> Figure 1: Gantt Chart </p>
+<p align = "center"> _Figure 1: Gantt Chart </p>
 
 
 ![wbs](https://user-images.githubusercontent.com/55248669/148727631-899c2749-880d-4a85-aed7-38080e6c06db.png)
-<p align = "center"> Figure 2: Work Breakdown Structure </p>
+<p align = "center"> _Figure 2: Work Breakdown Structure </p>
 
-![ram (2)](https://user-images.githubusercontent.com/55248669/148727697-0a41e9c8-741a-4992-9dab-02907c7c599a.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55248669/148727697-0a41e9c8-741a-4992-9dab-02907c7c599a.png" alt="Sublime's custom image"/>
+</p>
 
-Figure 3: Responsibility Assignment Matrices (RAM) 
+
+_Figure 3: Responsibility Assignment Matrices (RAM) 
 
 
 ### :notebook: Project Planning Summary
@@ -77,10 +80,7 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 ### :clipboard: Closing Checklist ###
 :white_check_mark: Sign Off
 
-:white_check_mark: Lesson Learned
-
-[Google](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Lab%2012.pdf) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
-
+:white_check_mark: [Lesson Learned](https://github.com/AinaZafirah/iFace/blob/main/Labwork/Lab%2012.pdf)
 :white_check_mark: Final Project Report
 
 :white_check_mark: Close Contract
