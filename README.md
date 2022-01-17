@@ -73,6 +73,15 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 ### Flow diagram
 
 ### Coding
+![1](https://user-images.githubusercontent.com/55248669/149729525-26401fcb-da84-42f3-a209-d0115ea6b6ae.jpeg)
+<p align = "center"> Figure 1: 1 </p>
+
+![2](https://user-images.githubusercontent.com/55248669/149729642-c4ad8292-16fc-4f66-a4f6-adb3f1653a74.jpeg)
+<p align = "center"> Figure 1: 1 </p>
+
+![3](https://user-images.githubusercontent.com/55248669/149729670-129db2a8-0453-4688-84c4-e4818076727e.jpeg)
+<p align = "center"> Figure 1: 1 </p>
+
 
 ## E. COMPLETING THE PROJECT ##
 ### :clipboard: Closing Checklist ###
