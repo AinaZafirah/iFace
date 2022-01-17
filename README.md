@@ -79,7 +79,7 @@ Figure 4 is the first part of our coding. We loaded a pre-trained deep learning 
 ![1](https://user-images.githubusercontent.com/55248669/149729525-26401fcb-da84-42f3-a209-d0115ea6b6ae.jpeg)
 <p align = "center"> Figure 4 </p>
 
-Figure 6 shows the process after the webcam has successfully been connected to the system. By using DeepFace, the system will analyze the emotion of the faces detected on the webcam. A rectangle will be drawn around the faces.
+Figure 5 shows the process after the webcam has successfully been connected to the system. By using DeepFace, the system will analyze the emotion of the faces detected on the webcam. A rectangle will be drawn around the faces.
 
 ![2](https://user-images.githubusercontent.com/55248669/149729642-c4ad8292-16fc-4f66-a4f6-adb3f1653a74.jpeg)
 <p align = "center"> Figure 5 </p>
