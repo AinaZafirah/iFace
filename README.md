@@ -82,7 +82,6 @@ MILESTONE | SCHEDULED COMPLETION | ACTUAL COMPLETION
 
 :white_check_mark: [Final Project Report](https://github.com/AinaZafirah/iFace)
 
-:white_check_mark: Close Contract
 
 ## F. PROJECT PRESENTATION ##
 ### :pushpin: Presentation video
