@@ -81,12 +81,16 @@ Figure 4 is the first part of our coding. We loaded a pre-trained deep learning 
 
 Figure 5 shows the process after the webcam has successfully been connected to the system. By using DeepFace, the system will analyze the emotion of the faces detected on the webcam. A rectangle will be drawn around the faces.
 
-![2](https://user-images.githubusercontent.com/55248669/149729642-c4ad8292-16fc-4f66-a4f6-adb3f1653a74.jpeg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55248669/149729642-c4ad8292-16fc-4f66-a4f6-adb3f1653a74.jpeg" alt="Sublime's custom image"/>
+</p>
 <p align = "center"> Figure 5 </p>
 
 Lastly, we inserted the text on the video so we are able to see the emotion detected. 
 
-![3](https://user-images.githubusercontent.com/55248669/149729670-129db2a8-0453-4688-84c4-e4818076727e.jpeg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55248669/149729670-129db2a8-0453-4688-84c4-e4818076727e.jpeg" alt="Sublime's custom image"/>
+</p>
 <p align = "center"> Figure 6 </p>
 
 
