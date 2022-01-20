@@ -105,8 +105,9 @@ Lastly, we inserted the text on the video so we are able to see the emotion dete
 
 ## F. PROJECT PRESENTATION ##
 ### :pushpin: Presentation video
-<a href="https://youtu.be/oPmnsGzRdeQ" target="_blank"><img src="![aa](https://user-images.githubusercontent.com/55248669/150338152-e75b1920-75a4-4f39-ac58-f6a78648e3ac.jpeg)" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oPmnsGzRdeQ/0.jpg)](https://www.youtube.com/watch?v=oPmnsGzRdeQ)
+
 
 ### :pushpin: System demonstration video
   
