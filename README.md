@@ -107,6 +107,7 @@ Lastly, we inserted the text on the video so we are able to see the emotion dete
 ### :pushpin: Presentation video
 
 Click the image below to watch our presentation video
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oPmnsGzRdeQ/0.jpg)](https://www.youtube.com/watch?v=oPmnsGzRdeQ)
 
 
